@@ -1,0 +1,16 @@
+.button{
+    margin-top: 3%;
+    width: 80%;
+    border-radius: 20px;
+    border: none;
+    background-color: red;
+    color: white;
+    font-size: 20px;
+}
+
+.button:hover{
+    border-color: red !important;
+    background-color: white;
+    color: red;
+    font-size: 30px;
+}

@@ -1,0 +1,11 @@
+.input{
+    padding: 10px;
+    border-radius: 5px;
+    width: 80%;
+    border-color: red;
+    cursor: pointer;
+}
+
+.input:hover{
+    border-color: white;
+}
